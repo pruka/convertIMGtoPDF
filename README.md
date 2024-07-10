@@ -11,6 +11,10 @@ Installation
 
 - Clone the repository by :
 `git clone https://github.com/pruka/convertIMGtoPDF.git && cd convertIMGtoPDF`
+- Installing the tkinter library:
+<p align="center">
+<img src="./readmeTools/tkinterinstallation.png" />
+
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Granting execute permission to <i>launcher.sh</i>:
