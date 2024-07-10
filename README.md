@@ -18,19 +18,6 @@ Installation
 - Running launcher.sh:
 `./launcher.sh`
 
-<style>
-.warning {
-  border: 1px solid yellow;
-  padding: 10px;
-  background-color: yellow;
-  color: red;
-  border-radius: 5px;
-  align:"center";
-}
-</style>
-
-<div class="warning">
-  <strong>Warning:</strong> Make sure there are no spaces in your file path.<br/>
-  <strong>Wrong:</strong> /home/My Cute PC/convertIMGtoPDF ❌<br/>
-  <strong>Right</strong> /home/MyCutePC/convertIMGtoPDF ✅
-</div>
+<p align="center">
+<img src="./readmeTools/warning.png"/>
+</p>
