@@ -1,6 +1,6 @@
 import os
-import sys
 import locale
+import subprocess
 # Kullanıcının işletim sistemi dilini al
 language, encoding = locale.getdefaultlocale()
 
@@ -17,8 +17,6 @@ desktop_path = os.path.join(home_dir, desktop_folder)
 
 resName = "ConvertApp"
 
-
-import subprocess
 
 # 'pwd' komutunu çalıştırarak çıktısını al
 result = subprocess.run(['pwd'], capture_output=True, text=True)

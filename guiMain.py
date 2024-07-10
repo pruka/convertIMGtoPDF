@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from tkinterdnd2 import DND_FILES, TkinterDnD
-from PIL import Image
 import img2pdf
 
 class ImageToPdfConverter(TkinterDnD.Tk):
