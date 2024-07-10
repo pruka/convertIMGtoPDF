@@ -25,3 +25,11 @@ Installation
 <p align="center">
 <img src="./readmeTools/warning.png"/>
 </p>
+
+<p align="center">
+<img src="./readmeTools/startLauncher.gif"/>
+</p>
+
+<p align="center">
+<img src="./readmeTools/convertprocess.gif"/>
+</p>
