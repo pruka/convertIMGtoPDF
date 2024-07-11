@@ -1,1 +1,0 @@
-python3 /home/pruka/Masaüstü/convertJPGtoPDF/guiMain.py
