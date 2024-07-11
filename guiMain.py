@@ -7,7 +7,7 @@ class ImageToPdfConverter(TkinterDnD.Tk):
     def __init__(self):
         super().__init__()
         self.title("Image to PDF Converter")
-        self.geometry("600x500")
+        self.geometry("600x525")
         
         self.label = tk.Label(self, text="Drag and drop images here", bg="white", relief="solid", width=80, height=20)
         self.label.pack(pady=20)
